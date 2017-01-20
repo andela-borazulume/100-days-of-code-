@@ -36,4 +36,13 @@
 **Link(s) to work**: [Book App](https://github.com/andela-borazulume/ile-iwe)
 
 
+## Day 5: January 21, Friday
+
+**Today's Progress**: Changed ui to semantic UI
+
+**Thoughts**: I love the sleekness of the library
+
+**Link(s) to work**: [Book App](https://github.com/andela-borazulume/ile-iwe)
+
+
 
